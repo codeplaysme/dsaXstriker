@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaishnavi Kulkarni
-- 👀 I’m interested in AIML and Cyber Security
+- I’m interested in AIML and Cyber Security
 - 🌱 I’m currently doing DSA and CP.
 
 <!---
