@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaishnavi Kulkarni
-- I’m interested in AIML and Cyber Security
-- 🌱 I’m currently doing DSA and CP.
+- I’m passionate about Cyber Security
+- 🌱 I’m 1st year Undergrad currently doing DSA and CP.
 
 <!---
 dsaXstriker/dsaXstriker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
